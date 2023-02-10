@@ -1,0 +1,11 @@
+Muistiinpanot tehtävään liittyen
+- class pitää olla samanniminen kuin tiedosto
+- voi olla vain yksi public class, muut private
+!!! Mitä ihmettä, miksi materiaalissa lukee näin mutta esimerkissä on kyllä monta public classia ?????
+- luokalla on erilaisia piirteitä, julkisia tai yksityisiä, johon asiakas (=ohjelmakoodi)
+pääsee käsiksi
+- attribuutit (=olion muuttujat) määritellään luokan alussa
+- mutta kaikkien metodien ulkopuolella
+- näille annetaan arvot konstruktorissa
+- jonka jälkeen uusia olioita muodostetaan new-operaattorin avulla
+- avainsana this helpottaa konstruktorin käyttöä kun samaa tunnistetta parametreissa ja attribuuteissa
